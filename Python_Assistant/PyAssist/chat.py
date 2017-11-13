@@ -6,7 +6,7 @@ def chat(input):
     complements = ["nice","happy","good","smart","wonderful","really ","intellegent","awesome","beautiful"]
     from random import randrange
     ranNum = randrange(1,4)
-    #chatting features of PyDa:
+    #chatting features of PyAssist:
     if input.startswith("do you want to "):
         if ranNum == 1:
             espeak.synth("Maybe later")
