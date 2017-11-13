@@ -1,12 +1,12 @@
 
-To install PyDa, simply run the run file and lock it to your unity-ubuntu launcher.
+To install PyAssist, simply run the run file and lock it to your unity-ubuntu launcher.
 
 You can type in commands and press enter to execute them.
 
 To do speech recognition simply press enter, say what you want to say and wait for it to load, then press enter to
 execute.
 
-PyDa is not case sensitive.
+PyAssist is not case sensitive.
 
 Commands:
 
@@ -65,4 +65,4 @@ translate hello in de
 hallo
 
 
-#Thank you for supporting PyDa if you made it this far
+#Thank you for supporting PyAssist if you made it this far
