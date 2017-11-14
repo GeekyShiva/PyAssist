@@ -1,4 +1,4 @@
-#These are all the dependencies needed to successfully install PyDa
+#These are all the dependencies needed to successfully install PyAssist on your local machine
 #MAKE SURE PYTHON 2.7 AND PYAUDIO ARE INSTALLED!
 
 echo 'PyAssist is built using various modules. You can choose which ones you want to install'
