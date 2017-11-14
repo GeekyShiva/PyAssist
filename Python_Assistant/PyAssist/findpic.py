@@ -10,7 +10,7 @@ def imgLookup(searchTerm):
     import urllib
 
     searchTerm = searchTerm.replace(' ','%20')
-
+#Please update this for the newer versions for Mozilla 
     class MyOpener(FancyURLopener): 
         version = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11'
     myopener = MyOpener()
