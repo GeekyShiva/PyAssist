@@ -10,7 +10,7 @@ To find out all of PyAssist's commands and tricks, go to help.txt
 
 ## Dependencies 
 
-- pip
+pip
 
 `sudo apt-get install pip`
 
