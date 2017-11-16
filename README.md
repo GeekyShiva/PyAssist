@@ -10,7 +10,7 @@ To find out all of PyAssist's commands and tricks, go to help.txt
 
 ## Dependencies 
 
-pip
+- pip
 
 `sudo apt-get install pip`
 
@@ -22,16 +22,21 @@ After you have installed pip,
 
 Also, make sure to install **wxPython** 
 
+- All these applications will let us:
 
-All these applications will let us:
-
-    use wikipedia for info
+    `use wikipedia for info
     get data from wolframalpha
     create a GUI (graphical user interface)
-    set up python to do many more functions for future tinkering
+    set up python to do many more functions for future tinkering`
 
-Takeways:
+- Takeways:
 
-    Pip lets us install python libraries
+   `Pip lets us install python libraries
     Wolfram Alpha and Wikipedia apis help our application get data
-    WxPython give our application a window to work on
+    WxPython give our application a window to work on`
+
+- Resources:
+
+Install wxpython for the application [here](https://wiki.wxpython.org/How%20to%20install%20wxPython)
+
+[Wikipedia Python API](https://pypi.python.org/pypi/wikipedia/1.4.0)
