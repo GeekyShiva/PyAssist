@@ -8,3 +8,30 @@ You can download different mods to add to the main.py. These mods will usually h
 
 To find out all of PyAssist's commands and tricks, go to help.txt
 
+## Dependencies 
+
+- pip
+
+`sudo apt-get install pip`
+
+After you have installed pip, 
+
+`pip install wikipedia`
+
+`pip install wolframalpha`
+
+Also, make sure to install **wxPython** 
+
+
+All these applications will let us:
+
+    use wikipedia for info
+    get data from wolframalpha
+    create a GUI (graphical user interface)
+    set up python to do many more functions for future tinkering
+
+Takeways:
+
+    Pip lets us install python libraries
+    Wolfram Alpha and Wikipedia apis help our application get data
+    WxPython give our application a window to work on
