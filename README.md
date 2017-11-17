@@ -40,3 +40,5 @@ Also, make sure to install **wxPython**
 Install wxpython for the application [here](https://wiki.wxpython.org/How%20to%20install%20wxPython)
 
 [Wikipedia Python API](https://pypi.python.org/pypi/wikipedia/1.4.0)
+
+Generate your `Wolfram|Alpha API` [here](https://products.wolframalpha.com/api/)
