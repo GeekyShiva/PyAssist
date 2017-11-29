@@ -20,7 +20,7 @@ After you have installed pip,
 
 `pip install wolframalpha`
 
-Also, make sure to install **wxPython** 
+Also, make sure to install **[wxPython](https://www.wxpython.org/)** 
 
 - All these applications will let us:
 
